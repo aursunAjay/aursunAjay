@@ -10,3 +10,4 @@ sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib \
     pylint3 xterm
 
 https://toffeeshare.com/c/kbUi5Y-jTn
+https://drive.google.com/file/d/1vLlhaQd9zcSar71HAGdV4cFx5AV1pmCw/view?usp=drive_link
